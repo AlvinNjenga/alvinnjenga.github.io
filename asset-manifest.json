@@ -8,10 +8,10 @@
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/businessman.PNG": "/static/media/businessman.12d1ee07.PNG",
-  "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
   "static/css/main.9b3c30d4.chunk.css.map": "/static/css/main.9b3c30d4.chunk.css.map",
   "static/css/1.49bf75c3.chunk.css.map": "/static/css/1.49bf75c3.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.9e67c2827ab7e063c1bc891360f3cf91.js": "/precache-manifest.9e67c2827ab7e063c1bc891360f3cf91.js",
+  "precache-manifest.7fbc976f23298cca7d7657fa86c7207d.js": "/precache-manifest.7fbc976f23298cca7d7657fa86c7207d.js",
   "service-worker.js": "/service-worker.js"
 }
